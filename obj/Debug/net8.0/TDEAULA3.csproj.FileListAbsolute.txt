@@ -12,3 +12,4 @@ C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA3\obj\De
 C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA3\obj\Debug\net8.0\TDEAULA3.pdb
 C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA3\obj\Debug\net8.0\TDEAULA3.genruntimeconfig.cache
 C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA3\obj\Debug\net8.0\ref\TDEAULA3.dll
+C:\Users\mikae\OneDrive\Área de Trabalho\2 SEMESTRE\AULA QUARTA\TDEAULA3\obj\Debug\net8.0\TDEAULA3.sourcelink.json
